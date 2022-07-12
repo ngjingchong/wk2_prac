@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">wk2_prac</string>
+    <string name="roll_label">ROLL</string>
+    <string name="clear_label">CLEAR</string>
+</resources>
